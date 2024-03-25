@@ -2,7 +2,6 @@ import streamlit as st
 from transformers import AutoImageProcessor, AutoModelForImageClassification
 from PIL import Image
 import requests
-from io import BytesIOpipreqs
 
 # Load model and processor
 # Load model directly
